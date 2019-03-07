@@ -90,6 +90,7 @@
             </div>
         </div>
     </div>
+    
     <div id="editRegistrationModal" class="modal fade">
 		<div class="modal-dialog">
 			<div class="modal-content">
